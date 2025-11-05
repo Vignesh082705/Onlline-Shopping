@@ -1,0 +1,137 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-image:linear-gradient(to right,red,orange,yellow);
+    width: 100%;
+    height: 200px;
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+}
+
+.carousel-item img {
+    height: 550px;
+    width: 500px;
+    padding: 4px;
+    object-fit: cover;
+  }
+.carousel-inner {
+    text-align: center;
+}
+
+footer{
+    background-color: gray;
+    height: 50px;
+    width: 100%;
+    margin-top: 50px;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+#flexOutput
+{
+    padding:0px;
+}
+
+#flexContainer{
+    border: 1px solid black;
+    border-radius: 5px;
+    
+    width: 390px;
+    height: 230px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    z-index: 3;
+    position: fixed;
+    right: 0;
+    box-sizing: border-box;
+    top: 0;
+}
+
+#flexContainer hr{
+    margin-bottom: 5px;
+}
+
+#flexContainer .new{
+    padding: 10px;
+    width:380px;
+    height: 170px;
+    box-sizing: border-box;
+    background-color: skyblue;
+}
+
+#flexContainer  .badge{
+    
+    margin-right: 40px;
+    margin-bottom: 10px;
+    float: right;
+}
+
+#flexContainer #buttons
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color:none;
+    background-image:none;
+    border:none;
+}
+
+.payment-row {
+    display: flex;
+    gap: 20px;
+    margin-top: 15px;
+}
+
+.payment-col {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.payment-col input {
+    padding: 2px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.acc-row {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.acc {
+    width: 60px;
+    padding: 10px;
+    font-size: 18px;
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+.pay-btn {
+    display: block;
+    margin: 2px auto;
+    margin-top:20px;      
+    padding: 5px 20px;      
+    background: #007bff;
+    color: white;
+    font-size: 16px;     
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: auto;         
+}
+
+.pay-btn:hover {
+    background: #0056b3;
+}
+

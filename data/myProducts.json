@@ -1,0 +1,207 @@
+[
+    {
+        "filter_id":1,
+        "products":[
+        {
+            "product_id": 101,
+            "product_name": "TV",
+            "imgSrc": "images/tv.webp",
+            "price": 10000
+          },
+        {
+            "product_id": 102,
+            "product_name": "AC",
+            "imgSrc": "images/ac.jpg",
+            "price": 15000
+        },
+        {
+            "product_id": 103,
+            "product_name": "Fridge",
+            "imgSrc": "images/fridge.jpg",
+            "price": 13000
+        },
+        {
+            "product_id": 104,
+            "product_name": "Oven",
+            "imgSrc": "images/oven.jpg",
+            "price": 7000
+        },
+        {
+            "product_id": 105,
+            "product_name": "Mixer Grinder",
+            "imgSrc": "images/mixergrinder.webp",
+            "price": 3000
+        },
+        {
+            "product_id": 106,
+            "product_name": "Washing Machine",
+            "imgSrc": "images/washingmachine.jpg",
+            "price": 20000
+        }
+    ]
+    },
+    {
+        "filter_id":2,
+        "products":[
+        {
+            "product_id": 201,
+            "product_name": "Shirt",
+            "imgSrc": "images/shirt.webp",
+            "price": 550
+          },
+        {
+            "product_id": 202,
+            "product_name": "Jeans Pant",
+            "imgSrc": "images/jeans.jpg",
+            "price": 650
+        },
+        {
+            "product_id": 203,
+            "product_name": "T-Shirt",
+            "imgSrc": "images/tshirt.jpg",
+            "price": 300
+        },
+        {
+            "product_id": 204,
+            "product_name": "Shoe",
+            "imgSrc": "images/shoes.jpg",
+            "price": 700
+        },
+        {
+            "product_id": 205,
+            "product_name": "Cotton Pant",
+            "imgSrc": "images/pant.webp",
+            "price": 800
+        },
+        {
+            "product_id": 206,
+            "product_name": "Hoodie",
+            "imgSrc": "images/hoodie.jpg",
+            "price": 400
+        }
+    ]
+    },
+    {
+        "filter_id":3,
+        "products":[
+        {
+            "product_id": 301,
+            "product_name": "Chudidhar",
+            "imgSrc": "images/chudidhar.jpeg",
+            "price": 1000
+          },
+        {
+            "product_id": 302,
+            "product_name": "Saree",
+            "imgSrc": "images/saree.jpg",
+            "price": 1500
+        },
+        {
+            "product_id": 303,
+            "product_name": "Frock",
+            "imgSrc": "images/frock.jpg",
+            "price": 1300
+        },
+        {
+            "product_id": 304,
+            "product_name": "Heel",
+            "imgSrc": "images/heel.jpg",
+            "price": 1000
+        },
+        {
+            "product_id": 305,
+            "product_name": "Earrings",
+            "imgSrc": "images/earring.webp",
+            "price": 130
+        },
+        {
+            "product_id": 306,
+            "product_name": "Lehenga",
+            "imgSrc": "images/lehenga.webp",
+            "price": 2000
+        }
+    ]
+    },
+    {
+        "filter_id":4,
+        "products":[
+        {
+            "product_id": 401,
+            "product_name": "Biriyani",
+            "imgSrc": "images/biriyani.webp",
+            "price": 150
+          },
+        {
+            "product_id": 402,
+            "product_name": "Dosa",
+            "imgSrc": "images/dosa.webp",
+            "price": 50
+        },
+        {
+            "product_id": 403,
+            "product_name": "Idli",
+            "imgSrc": "images/idli.jpeg",
+            "price": 15
+        },
+        {
+            "product_id": 404,
+            "product_name": "Parotta",
+            "imgSrc": "images/parotta.jpg",
+            "price": 20
+        },
+        {
+            "product_id": 405,
+            "product_name": "Pizza",
+            "imgSrc": "images/pizza.jpg",
+            "price": 130
+        },
+        {
+            "product_id": 406,
+            "product_name": "Tandoori",
+            "imgSrc": "images/tandoori.jpeg",
+            "price": 450
+        }
+    ]
+    },
+    {
+        "filter_id":5,
+        "products":[
+        {
+            "product_id": 501,
+            "product_name": "English",
+            "imgSrc": "images/english.jpg",
+            "price": 200
+          },
+        {
+            "product_id": 502,
+            "product_name": "Story Book",
+            "imgSrc": "images/storybook.webp",
+            "price": 250
+        },
+        {
+            "product_id": 503,
+            "product_name": "Programming Book",
+            "imgSrc": "images/programming.jpg",
+            "price": 400
+        },
+        {
+            "product_id": 504,
+            "product_name": "Drawing Book",
+            "imgSrc": "images/drawingbook.webp",
+            "price": 150
+        },
+        {
+            "product_id": 505,
+            "product_name": "General Knowledge",
+            "imgSrc": "images/gk.webp",
+            "price": 300
+        },
+        {
+            "product_id": 506,
+            "product_name": "Mathamatics",
+            "imgSrc": "images/mathsbook.jpeg",
+            "price": 200
+        }
+    ]
+    }
+]
